@@ -14,6 +14,9 @@ public class Test {
     /**
      * @param args the command line arguments
      */
+    
+    private String prueba1;
+            
     public static void main(String[] args) {
         System.out.println("Hola");
     }
