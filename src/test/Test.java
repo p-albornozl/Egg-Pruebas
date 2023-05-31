@@ -16,6 +16,8 @@ public class Test {
      */
     
     private String prueba1;
+    
+    private String prueba2;
             
     public static void main(String[] args) {
         System.out.println("Hola");
